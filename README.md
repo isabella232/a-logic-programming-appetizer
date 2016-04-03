@@ -1,7 +1,7 @@
 A Logic Programming Appetizer
 =============================
 
-Talk given by [Kilian Evang](https://kilian.evang.name/) at the
+Talk given by [Kilian Evang](http://kilian.evang.name/) at the
 [10th Functional Groningen Meetup](http://www.meetup.com/Functional-Groningen/events/180886102/)
 on 2014-05-08.
 
