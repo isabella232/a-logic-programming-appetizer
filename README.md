@@ -2,7 +2,8 @@ A Logic Programming Appetizer
 =============================
 
 Talk given by [Kilian Evang](https://kilian.evang.name/) at the
-[10th Functional Groningen Meetup](http://www.meetup.com/Functional-Groningen/events/180886102/).
+[10th Functional Groningen Meetup](http://www.meetup.com/Functional-Groningen/events/180886102/)
+on 2014-05-08.
 
 Browse the example code: https://github.com/texttheater/a-logic-programming-appetizer/tree/master/code
 
